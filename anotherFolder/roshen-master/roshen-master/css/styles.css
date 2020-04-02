@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "GothamProRegular";
+    src: url("../fonts/GothamPro/GothamProRegular/GothamProRegular.eot");
+    src: url("../fonts/GothamPro/GothamProRegular/GothamProRegular.eot")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProRegular/GothamProRegular.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProRegular/GothamProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "GothamProBold";
+    src: url("../fonts/GothamPro/GothamProBold/GothamProBold.eot");
+    src: url("../fonts/GothamPro/GothamProBold/GothamProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProBold/GothamProBold.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProBold/GothamProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* @font-face {
+    font-family: "GothamProMedium";
+    src: url("../fonts/GothamPro/GothamProMedium/GothamProMedium.eot");
+    src: url("../fonts/GothamPro/GothamProMedium/GothamProMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProMedium/GothamProMedium.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProMedium/GothamProMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+} */
+
+@font-face {
+    font-family: "GothamProLight";
+    src: url("../fonts/GothamPro/GothamProLight/GothamProLight.eot");
+    src: url("../fonts/GothamPro/GothamProLight/GothamProLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GothamPro/GothamProLight/GothamProLight.woff") format("woff"),
+    url("../fonts/GothamPro/GothamProLight/GothamProLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MinionPro Regular";
+    src: url("../fonts/MinionPro/MinionPro-Regular.eot");
+    src: url("../fonts/MinionPro/MinionPro-Regular.eot")format("embedded-opentype"),
+    url("../fonts/MinionPro/MinionPro-Regular.woff") format("woff"),
+    url("../fonts/MinionPro/MinionPro-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MinionPro Bold";
+    src: url("../fonts/MinionPro/MinionPro-Bold.eot");
+    src: url("../fonts/MinionPro/MinionPro-Bold.eot")format("embedded-opentype"),
+    url("../fonts/MinionPro/MinionPro-Bold.woff") format("woff"),
+    url("../fonts/MinionPro/MinionPro-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+  h1 {
+    font-family: "MinionPro Bold";
+  }
+
+  p {
+    font-family: "GothamProMedium";
+  }
+
+  p.english {
+    font-family: "MinionPro Regular";
+  }
